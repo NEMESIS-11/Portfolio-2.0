@@ -1,0 +1,164 @@
+{
+    "name": "Parv Virmani",
+    "landing": {
+        "title": "Hi, I'm Parv",
+        "subtitles": [
+            "Full-stack developer 🌐",
+            "Software Engineer 📱💻",
+            "Beginner in Deep Learning ♾️",
+            "Just getting started 📈"
+        ],
+        "professionalDetails": [
+            {
+                "alt": "parv-virmani",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/parv-virmani/"
+            },
+            {
+                "alt": "NEMESIS-11",
+                "icon": "github",
+                "link": "https://github.com/NEMESIS-11"
+            },
+            {
+                "alt": "Email",
+                "icon": "gmail",
+                "link": "mailto:parvvirmani07@gmail.com"
+            }
+        ]
+    },
+    "skills": {
+        "Languages known": [
+            "JavaScript",
+            "PHP",
+            "C++",
+            "Python",
+            "HTML5",
+            "CSS3",
+            "TypeScript"
+        ],
+        "Frontend": [
+            "React",
+            "Redux",
+            "Next.js",
+            "Netlify",
+            "Vercel",
+            "Material-UI",
+            "Bootstrap"
+        ],
+        "Backend, Database and Cloud": [
+            "Node.js",
+            "Express",
+            "FastAPI",
+            "MongoDB",
+            "MySQL",
+            "Heroku",
+            "Firebase"
+        ]
+    },
+    "projects": {
+        "baseURI": "https://api.github.com/repos/NEMESIS-11/",
+        "repositories": [
+            "Skillly",
+            "Portfolio-2.0",
+            "Neurora",
+            "StudiousMe-master",
+            "CryptoApp",
+            "urban-legend"
+        ]
+    },
+    "experience": {
+        "Work Experience": [
+            {
+                "organization": "SKillly Co.",
+                "role": "Co-Founder",
+                "type": "Full-Time",
+                "startDate": "2020-05-20",
+                "endDate": "2021-08-20",
+                "city": "New Delhi",
+                "state": "Delhi",
+                "country": "India",
+                "url": "https://www.linkedin.com/company/skillly",
+                "thumbnail": "https://media-exp1.licdn.com/dms/image/C4E0BAQH_E5f2YwzMEA/company-logo_200_200/0/1628782866797?e=2147483647&v=beta&t=uw6ZHa_n1N2s0fnFnbDTtYEhLJdI66JUn7VbxppSsDM"
+            },
+            {
+                "organization": "IETE's Student Forum",
+                "role": "Student Mentor",
+                "type": "Internship",
+                "startDate": "2020-07-01",
+                "endDate": "2021-01-01",
+                "city": "Patiala",
+                "state": "Punjab",
+                "country": "India",
+                "url": "https://www.linkedin.com/company/iete-thapar/",
+                "thumbnail": "https://media-exp1.licdn.com/dms/image/C4E0BAQHZpKMBzccLSQ/company-logo_200_200/0/1596532011083?e=2147483647&v=beta&t=t5pHdz0YHcn_vKxHb0fW6mEzgcqej54_QUTFDEWp2HU"
+            }
+        ],
+        "Volunteer Experience": [
+            {
+                "organization": "Elementos 5.0",
+                "role": "Technical Head",
+                "type": "Member",
+                "startDate": "2020-01-06",
+                "endDate": "2020-03-06",
+                "city": "Patiala",
+                "state": "Punjab",
+                "country": "India",
+                "url": "",
+                "thumbnail": "/ELE6.jpeg"
+            },
+            {
+                "organization": "Elementos 6.0",
+                "role": "Event Head",
+                "type": "Organiser",
+                "startDate": "2021-03-01",
+                "endDate": "2021-05-01",
+                "city": "Patiala",
+                "state": "Punjab",
+                "country": "India",
+                "url": "",
+                "thumbnail": "/ELE6.jpeg"
+            }
+        ]
+    },
+    "about": {
+        "description": "I am a full-stack developer and software engineer, pursuing my B.E in Electronics and Computers from Thapar Institute of Engineering & Technology. I strive to make meaningful applications with the best UI practices.",
+        "picture": "/profile.jpg",
+        "social": [
+            {
+                "alt": "parv_virmani_",
+                "icon": "instagram",
+                "link": "https://www.instagram.com/parv_virmani_/"
+            },
+            {
+                "alt": "gaurav_nemesis",
+                "icon": "twitter",
+                "link": "https://twitter.com/gaurav_nemesis"
+            },
+            {
+                "alt": "nemesis#1613",
+                "icon": "discord",
+                "link": "https://discord.com/"
+            }
+        ]
+    },
+    "theme": {
+        "light": {
+            "palette": {
+                "type": "light",
+                "background": {
+                    "paper": "#fff",
+                    "default": "#fafafa"
+                }
+            }
+        },
+        "dark": {
+            "palette": {
+                "type": "dark",
+                "background": {
+                    "paper": "#303030",
+                    "default": "#212121"
+                }
+            }
+        }
+    }
+}
